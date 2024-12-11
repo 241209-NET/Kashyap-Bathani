@@ -1,0 +1,15 @@
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\bin\Debug\net8.0\Bank Account.exe
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\bin\Debug\net8.0\Bank Account.deps.json
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\bin\Debug\net8.0\Bank Account.runtimeconfig.json
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\bin\Debug\net8.0\Bank Account.dll
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\bin\Debug\net8.0\Bank Account.pdb
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.AssemblyInfoInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.AssemblyInfo.cs
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.sourcelink.json
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.dll
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\refint\Bank Account.dll
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.pdb
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\Bank Account.genruntimeconfig.cache
+C:\Users\kashy\OneDrive\Desktop\Repo\Kashyap-Bathani\Bank Account\obj\Debug\net8.0\ref\Bank Account.dll
