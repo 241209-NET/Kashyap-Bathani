@@ -29,6 +29,8 @@ public class Program{
 
           BankAccount obj = new BankAccount(name, amount);
 
+          Console.WriteLine("\n\tAccount created successfully.");
+
           list.Add(obj);
         break;
 
@@ -50,6 +52,8 @@ public class Program{
 
           deposit(n, a);
 
+          Console.WriteLine("\n\tDeposited Successfully");
+
         break;
 
         case 4:
@@ -61,6 +65,7 @@ public class Program{
           double amt = Convert.ToInt32(Console.ReadLine());
 
           withdraw(num, amt);
+
         break;
       }
       
@@ -78,9 +83,11 @@ public class Program{
       if(obj.getName() == name){
         double balance = obj.getBalance() - amount;
         if(amount > obj.getBalance()){
-          Console.WriteLine("Your withdrawal amount is greater than your balance.");
+          Console.WriteLine("\n\tYour withdrawal amount is greater than your balance.");
         }else {
           obj.setBalance(balance);
+          Console.WriteLine("\n\tWithdrew Successfully");
+
         }
         
         break;
@@ -106,7 +113,7 @@ public class Program{
       BankAccount obj = list[i];
 
       if(obj.getName() == name){
-        Console.WriteLine(obj.getBalance());
+        Console.WriteLine("\n\tBalance: " + obj.getBalance());
         break;
       }
     }
