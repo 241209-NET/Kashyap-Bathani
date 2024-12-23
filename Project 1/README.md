@@ -1,7 +1,3 @@
-Here's a `README.md` for your Library Management System, structured similarly to the provided Pokémon Showdown Teams Builder template:
-
----
-
 # Library Management System
 
 This is a Full Stack Web API built with ASP.NET Core to help manage library operations, including books, members, and lending records.
