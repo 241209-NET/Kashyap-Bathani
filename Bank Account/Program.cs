@@ -127,4 +127,20 @@ public class Program{
     Console.WriteLine("4. Withdraw.");
     Console.WriteLine("5. Quit.\n");
   }
+
+  public void sort(string[] s){
+    
+  //Ascending 
+  Arrays.sort(s)
+
+  //Reverse the sreing
+  Array.reverse(s);
+
+  //Output
+  foreach(var str in s){
+    Console.Write(str);
+  }
 }
+}
+
+
