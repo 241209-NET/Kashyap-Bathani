@@ -8,9 +8,7 @@ This is a RESTful API built in ASP.NET Core to manage an e-commerce platform. It
 - Application must build and run.
 - RESTful API endpoints for user, product, cart, and order functionalities.
 - Data persistence using a SQL Server database.
-- Unit Testing (70% code coverage for Services and Models layer).
 - Entity Framework Core for ORM and database interactions.
-- Backend hosted on Azure (optional).
 
 ## Tech Stack
 - ASP.NET Core (Web API Framework)
