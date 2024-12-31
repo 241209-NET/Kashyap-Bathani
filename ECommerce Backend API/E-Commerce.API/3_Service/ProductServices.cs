@@ -22,6 +22,11 @@ public class ProductServices : IProductService
         if (!user.IsAdmin)
             throw new UnauthorizedAccessException("Only admins can create products.");
 
+        if (product.Price == 0)
+        {
+            product.Price = 0.99;
+        }
+
         return _productRepository.Create(product);
     }
 

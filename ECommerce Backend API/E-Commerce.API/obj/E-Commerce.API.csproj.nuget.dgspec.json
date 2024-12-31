@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\Project 1\\E-Commerce.API\\E-Commerce.API.csproj": {}
+    "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\ECommerce Backend API\\E-Commerce.API\\E-Commerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\Project 1\\E-Commerce.API\\E-Commerce.API.csproj": {
+    "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\ECommerce Backend API\\E-Commerce.API\\E-Commerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\Project 1\\E-Commerce.API\\E-Commerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\ECommerce Backend API\\E-Commerce.API\\E-Commerce.API.csproj",
         "projectName": "E-Commerce.API",
-        "projectPath": "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\Project 1\\E-Commerce.API\\E-Commerce.API.csproj",
+        "projectPath": "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\ECommerce Backend API\\E-Commerce.API\\E-Commerce.API.csproj",
         "packagesPath": "C:\\Users\\kashy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\Project 1\\E-Commerce.API\\obj\\",
+        "outputPath": "C:\\Users\\kashy\\OneDrive\\Desktop\\Repo\\Kashyap-Bathani\\ECommerce Backend API\\E-Commerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kashy\\AppData\\Roaming\\NuGet\\NuGet.Config",
