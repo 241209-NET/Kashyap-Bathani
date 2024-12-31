@@ -56,11 +56,7 @@ A C#/.NET-based E-Commerce backend API that allows users to browse products, man
 
 
 # ERD
-![alt text](mermaid-diagram-2024-12-31-002112.png)
-
-
-
-
+![alt text](image.png)
 
 # Features & User Stories
 ### User Management
